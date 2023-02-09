@@ -1,4 +1,4 @@
-##Teste Técnico para Desenvolvedor React Junior - Aplicação de Todo List:
+## Teste Técnico para Desenvolvedor React Junior - Aplicação de Todo List:
 
 ### **Requisitos**:
 
